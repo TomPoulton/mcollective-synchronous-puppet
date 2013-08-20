@@ -1,0 +1,2 @@
+mcollective-synchronous-puppet
+==============================
